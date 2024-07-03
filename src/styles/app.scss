@@ -1,0 +1,8 @@
+@import "./common/variables.scss";
+@import "./common/mixins.scss";
+
+@import "./components/rubiks-cube.scss";
+
+.app-container {
+  text-align: center;
+}
